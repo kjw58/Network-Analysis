@@ -1,4 +1,4 @@
-# Ciudad Bolívar Resilience Network Analysis
+# Ciudad Bolívar, Bogotá, Colombia - Exploratory Data Analysis
 
 ## Overview
 This repository contains a Jupyter notebook with sample code for exploratory data analysis combining multiple datasets for my PhD research on **infrastructure and community and climate resilience** in *Ciudad Bolívar*, an informal settlement in Bogotá, Colombia. 
