@@ -9,5 +9,5 @@ The project integrates **community-generated participatory data**, open urban da
 - **Multilayer spatial networks**, **Social-Ecological-Technological (SETs)** framework
 - **GNN-based resilience prediction**
 - **Community data integration**, participatory mapping, art-based methods
-<br><br>
+<br><br><br>
 ![Preliminary Network Analysis Results](Images/NA_figure.png)
