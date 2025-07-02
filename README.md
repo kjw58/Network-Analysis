@@ -10,4 +10,6 @@ The project integrates **community-generated participatory data**, open urban da
 - **GNN-based resilience prediction**
 - **Community data integration**, participatory mapping, art-based methods
 
+
+
 ![Preliminary Network Analysis Results](Images/NA_figure.png)
